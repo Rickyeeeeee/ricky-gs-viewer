@@ -5,7 +5,7 @@
 	path = submodules/diff-gaussian-rasterization
 	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization.git
 	branch = dr_aa
-[submodule "SIBR_viewers"]
+[submodule "ricky-SIBRviewers"]
 	path = SIBR_viewers
 	url = https://github.com/Rickyeeeeee/ricky-SIBRviewer.git
 [submodule "submodules/fused-ssim"]
